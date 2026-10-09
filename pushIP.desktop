@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=PushIP
+Exec=lxterminal -e /home/<your rpi user name>/Documents/git/my_RPI/scripts/push_my_ip.sh
+Type=Application
